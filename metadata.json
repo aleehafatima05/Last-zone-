@@ -1,0 +1,6 @@
+{
+  "name": "LAST ZONE",
+  "description": "Survive the Collapse — Tactical 3D browser battle royale set in The Forgotten Sector with four operatives, AI opponents, dynamic safe-zone mechanics, and mobile-optimized controls.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
